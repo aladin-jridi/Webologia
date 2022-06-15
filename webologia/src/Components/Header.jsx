@@ -25,7 +25,7 @@ const Header = () => {
                 <div className="header__logo top-logo">
                   <a href="index.html">
                     <img
-                      src="https://scontent.ftun9-1.fna.fbcdn.net/v/t39.30808-6/281137070_127222839962455_1279018889319035446_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=yU6V2_OMzZYAX-8qfSp&_nc_ht=scontent.ftun9-1.fna&oh=00_AT9qRNfdwWmOT6-7BWW5fFlQ3LvJQt7fJrP2yaDkAdXGbQ&oe=62A6537A"
+                      src="https://scontent.ftun16-1.fna.fbcdn.net/v/t39.30808-6/281137070_127222839962455_1279018889319035446_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=xb7xkbMBWjEAX8G4DpD&_nc_ht=scontent.ftun16-1.fna&oh=00_AT9FkJm98mYCqLtEkYbGkLwEMZjv4u-6npg1fGtVPUF-YA&oe=62AE3C7A"
                       width="10"
                       height="48"
                       className="img-fluid"
